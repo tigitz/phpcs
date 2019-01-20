@@ -1,7 +1,7 @@
 {
     "name": "tigitz/phpcs",
-    "description": "Official Geolid coding standard.",
-    "homepage": "https://github.com/Geolid/phpcs",
+    "description": "Official Geolid coding standard supporting php7.1.",
+    "homepage": "https://github.com/tigitz/phpcs",
     "type": "library",
     "license": "MIT",
     "keywords": [
