@@ -1,10 +1,6 @@
-# Geolid PHP Coding Style [![Build Status](https://travis-ci.org/Geolid/phpcs.svg?branch=master)](https://travis-ci.org/Geolid/phpcs)
-
-PHPCS ruleset used at Geolid.
-
 ## Installation
 
-    composer require --dev geolid/phpcs
+    composer require --dev tigitz/phpcs
 
 You only need this package, no need to require manually `squizlabs/php_codesniffer`.
 
@@ -12,7 +8,7 @@ after require, copy in your path : `phpcs.xml.dist` and rename to `phpcs.xml̀`
 or add the rule below in your existing `phpcs.xml`.
 
 ```xml
-<rule ref="./vendor/geolid/phpcs/src/Geolid/ruleset.xml" />
+<rule ref="./vendor/tigitz/phpcs/src/Geolid/ruleset.xml" />
 ```
 
 ## Usage
