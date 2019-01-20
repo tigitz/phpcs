@@ -10,7 +10,7 @@
         "coding style"
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
         "escapestudios/symfony2-coding-standard": "^3.4",
         "object-calisthenics/phpcs-calisthenics-rules": "^3.3",
         "slevomat/coding-standard": "^4.7",
